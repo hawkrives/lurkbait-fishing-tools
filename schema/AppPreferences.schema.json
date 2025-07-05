@@ -1,0 +1,304 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AppPreferences for LurkBait Twitch Fishing",
+  "type": "object",
+  "properties": {
+    "appVersion": {
+      "type": "string",
+      "description": "the current version of LurkBait"
+    },
+    "chatTrigger": {
+      "type": "boolean",
+      "description": "if true, a fish can be triggered by the !fish (by default) chat command"
+    },
+    "pointsTrigger": {
+      "type": "boolean",
+      "description": "if true, a fish can be triggered by spending channel points"
+    },
+    "bitsTrigger": {
+      "type": "boolean",
+      "description": "if true, a fish can be triggered by donating bits to the channel"
+    },
+    "followTrigger": {
+      "type": "boolean",
+      "description": "if true, a fish can be triggered by following the channel"
+    },
+    "subTrigger": {
+      "type": "boolean",
+      "description": "if true, a fish can be triggered by subscribing to the channel"
+    },
+    "giftedSubTrigger": {
+      "type": "boolean",
+      "description": "if true, a fish can be triggered by gifting a sub to the channel"
+    },
+    "gifteesGetCasts": {
+      "type": "boolean",
+      "description": "if true, a fish will be gifted to the recipients of gift subs"
+    },
+    "failable": {
+      "type": "boolean",
+      "description": "if true, fishing can fail"
+    },
+    "failChance": {
+      "type": "number",
+      "description": "the percent chance (as a float) that fishing can fail"
+    },
+    "customMode": {
+      "type": "boolean",
+      "description": "if true, only Custom Catches will be available"
+    },
+    "commandIdent": {
+      "type": "string"
+    },
+    "castCommand": {
+      "type": "string"
+    },
+    "timeoutDuration": {
+      "type": "integer"
+    },
+    "rewardName": {
+      "type": "string"
+    },
+    "minimumBits": {
+      "type": "integer"
+    },
+    "exactBits": {
+      "type": "boolean"
+    },
+    "multipleCastsBits": {
+      "type": "boolean"
+    },
+    "maxBitCasts": {
+      "type": "integer"
+    },
+    "helpCommand": {
+      "type": "string"
+    },
+    "playerStatsAllowed": {
+      "type": "boolean"
+    },
+    "playerStatsCommand": {
+      "type": "string"
+    },
+    "leaderboardQueue": {
+      "type": "boolean"
+    },
+    "leaderboardCommand": {
+      "type": "string"
+    },
+    "leaderboardTimeoutDuration": {
+      "type": "integer"
+    },
+    "leaderboardPlayerSize": {
+      "type": "integer"
+    },
+    "leaderboardCatchSize": {
+      "type": "integer"
+    },
+    "dexQueue": {
+      "type": "boolean"
+    },
+    "dexCommand": {
+      "type": "string"
+    },
+    "dexTimeoutDuration": {
+      "type": "integer"
+    },
+    "sendChatMessage": {
+      "type": "boolean"
+    },
+    "customChatMessage": {
+      "type": "boolean"
+    },
+    "customChatString": {
+      "type": "string"
+    },
+    "castDelay": {
+      "type": "integer"
+    },
+    "muted": {
+      "type": "boolean"
+    },
+    "volume": {
+      "type": "number"
+    },
+    "catchVolume": {
+      "type": "number"
+    },
+    "hideMatureContent": {
+      "type": "boolean"
+    },
+    "transition": {
+      "type": "boolean"
+    },
+    "boostRares": {
+      "type": "boolean"
+    },
+    "modsCanTargetCast": {
+      "type": "boolean"
+    },
+    "modsAreSuperUsers": {
+      "type": "boolean"
+    },
+    "enableSammi": {
+      "type": "boolean"
+    },
+    "sammiPort": {
+      "type": "integer"
+    },
+    "enableSB": {
+      "type": "boolean"
+    },
+    "sbIP": {
+      "type": "string"
+    },
+    "sbPort": {
+      "type": "integer"
+    },
+    "sbCastAction": {
+      "type": "null"
+    },
+    "sbCatchAction": {
+      "type": "null"
+    },
+    "sbSnagAction": {
+      "type": "null"
+    },
+    "sbCatchCompleteAction": {
+      "type": "null"
+    },
+    "enableMixitup": {
+      "type": "boolean"
+    },
+    "mixCastWebhook": {
+      "type": "string"
+    },
+    "mixSnagWebhook": {
+      "type": "string"
+    },
+    "mixCatchWebhook": {
+      "type": "string"
+    },
+    "mixCatchCompleteWebhook": {
+      "type": "string"
+    },
+    "enableAPI": {
+      "type": "boolean"
+    },
+    "apiPort": {
+      "type": "integer"
+    },
+    "highDetail": {
+      "type": "boolean"
+    },
+    "halloweenDetail": {
+      "type": "boolean"
+    },
+    "quality": {
+      "type": "integer"
+    },
+    "resolution": {
+      "type": "integer"
+    },
+    "fps": {
+      "type": "integer"
+    },
+    "transparency": {
+      "type": "integer"
+    },
+    "weatherIndex": {
+      "type": "integer"
+    },
+    "shownHalloweenWeather": {
+      "type": "boolean"
+    },
+    "leaderboardStart": {
+      "type": "string"
+    },
+    "allTimeLeaderboard": {
+      "type": "boolean"
+    },
+    "askedAboutData": {
+      "type": "boolean"
+    },
+    "dataCollection": {
+      "type": "boolean"
+    },
+    "isDateTimeUpgraded": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "appVersion",
+    "chatTrigger",
+    "pointsTrigger",
+    "bitsTrigger",
+    "followTrigger",
+    "subTrigger",
+    "giftedSubTrigger",
+    "gifteesGetCasts",
+    "failable",
+    "failChance",
+    "customMode",
+    "commandIdent",
+    "castCommand",
+    "timeoutDuration",
+    "rewardName",
+    "minimumBits",
+    "exactBits",
+    "multipleCastsBits",
+    "maxBitCasts",
+    "helpCommand",
+    "playerStatsAllowed",
+    "playerStatsCommand",
+    "leaderboardQueue",
+    "leaderboardCommand",
+    "leaderboardTimeoutDuration",
+    "leaderboardPlayerSize",
+    "leaderboardCatchSize",
+    "dexQueue",
+    "dexCommand",
+    "dexTimeoutDuration",
+    "sendChatMessage",
+    "customChatMessage",
+    "customChatString",
+    "castDelay",
+    "muted",
+    "volume",
+    "catchVolume",
+    "hideMatureContent",
+    "transition",
+    "boostRares",
+    "modsCanTargetCast",
+    "modsAreSuperUsers",
+    "enableSammi",
+    "sammiPort",
+    "enableSB",
+    "sbIP",
+    "sbPort",
+    "sbCastAction",
+    "sbCatchAction",
+    "sbSnagAction",
+    "sbCatchCompleteAction",
+    "enableMixitup",
+    "mixCastWebhook",
+    "mixSnagWebhook",
+    "mixCatchWebhook",
+    "mixCatchCompleteWebhook",
+    "enableAPI",
+    "apiPort",
+    "highDetail",
+    "halloweenDetail",
+    "quality",
+    "resolution",
+    "fps",
+    "transparency",
+    "weatherIndex",
+    "shownHalloweenWeather",
+    "leaderboardStart",
+    "allTimeLeaderboard",
+    "askedAboutData",
+    "dataCollection",
+    "isDateTimeUpgraded"
+  ]
+}

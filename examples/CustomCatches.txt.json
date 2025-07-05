@@ -1,0 +1,1019 @@
+{
+  "Flyfish": {
+    "FullName": "Flyfish",
+    "Description": "",
+    "BaseValue": 201,
+    "BaseWeight": 6.0,
+    "SpritePath": "flyfish-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Lil’ Buddy": {
+    "FullName": "Lil\u2019 Buddy",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 1.0,
+    "SpritePath": "RotM_Render_Smallfry-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Smallfry": {
+    "FullName": "Smallfry",
+    "Description": "",
+    "BaseValue": 35,
+    "BaseWeight": 1.0,
+    "SpritePath": "pasted-movie-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Jelly": {
+    "FullName": "Jelly",
+    "Description": "",
+    "BaseValue": 35,
+    "BaseWeight": 3.0,
+    "SpritePath": "pasted-movie-2.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Conch Shell": {
+    "FullName": "Conch Shell",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 1.0,
+    "SpritePath": "connnch-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Festival Shell": {
+    "FullName": "Festival Shell",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 1.0,
+    "SpritePath": "festival shell-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Golden Egg": {
+    "FullName": "Golden Egg",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 1.0,
+    "SpritePath": "S2_Golden_Egg-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Zapfish": {
+    "FullName": "Zapfish",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 4.0,
+    "SpritePath": "SSBU_Zapfish_Spirit-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Super Sea Snail": {
+    "FullName": "Super Sea Snail",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 1.0,
+    "SpritePath": "S_Icon_Super_Sea_Snail-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Master Mega": {
+    "FullName": "Master Mega",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 3850.0,
+    "SpritePath": "S3_Tableturf_Battle_card_The_Cold-Blooded_Bandit_-_Shiver-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Mr. Coco": {
+    "FullName": "Mr. Coco",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 80.0,
+    "SpritePath": "S3_Tableturf_Battle_card_Mr._Coco-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Marigold": {
+    "FullName": "Marigold",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 60.0,
+    "SpritePath": "S3_Tableturf_Battle_card_Marigold-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "C. Q. Cumber": {
+    "FullName": "C. Q. Cumber",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 1.5,
+    "SpritePath": "S2_OE_art_2D_C.Q._Cumber-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Iso Padre": {
+    "FullName": "Iso Padre",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 4.5,
+    "SpritePath": "pasted-movie-3.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Inkling": {
+    "FullName": "Inkling",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 30.0,
+    "SpritePath": "S3_art_3D_squid_yellow_(ink)-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Octoling": {
+    "FullName": "Octoling",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 30.0,
+    "SpritePath": "Octo_Expansion_-_Agent_8_octopus-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Lil’ Buddy (Karen)": {
+    "FullName": "Lil\u2019 Buddy (Karen)",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 2.0,
+    "SpritePath": "pasted-movie-4.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Pearl (Drone)": {
+    "FullName": "Pearl (Drone)",
+    "Description": "",
+    "BaseValue": 201,
+    "BaseWeight": 2.0,
+    "SpritePath": "S3_Tableturf_Battle_card_Pearl_Drone-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Great Zapfish": {
+    "FullName": "Great Zapfish",
+    "Description": "",
+    "BaseValue": 201,
+    "BaseWeight": 7700.0,
+    "SpritePath": "SSBU_Great_Zapfish_Spirit-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Mr. Coco (T-Pose)": {
+    "FullName": "Mr. Coco (T-Pose)",
+    "Description": "",
+    "BaseValue": 500,
+    "BaseWeight": 80.0,
+    "SpritePath": "54040-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Acht": {
+    "FullName": "Acht",
+    "Description": "",
+    "BaseValue": 500,
+    "BaseWeight": 40.0,
+    "SpritePath": "S3_Tableturf_Battle_card_Acht-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Hugefry": {
+    "FullName": "Hugefry",
+    "Description": "",
+    "BaseValue": 10000,
+    "BaseWeight": 8888.0,
+    "SpritePath": "pasted-movie-5.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Splat Tim": {
+    "FullName": "Splat Tim",
+    "Description": "",
+    "BaseValue": 10000,
+    "BaseWeight": 28.0,
+    "SpritePath": "pasted-movie-6.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Blooper": {
+    "FullName": "Blooper",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 10.0,
+    "SpritePath": "blooper-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Bubba": {
+    "FullName": "Bubba",
+    "Description": "",
+    "BaseValue": 201,
+    "BaseWeight": 69.0,
+    "SpritePath": "MPS_Cheep_Chomp_enc-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Big Blooper": {
+    "FullName": "Big Blooper",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 2896.0,
+    "SpritePath": "pasted-movie-7.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bulbatums": {
+    "FullName": "bulbatums",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 6.9,
+    "SpritePath": "bulbatums-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun blep": {
+    "FullName": "bun blep",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun blep-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun droop": {
+    "FullName": "bun droop",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun droop-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun lick": {
+    "FullName": "bun lick",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun lick-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun screech": {
+    "FullName": "bun screech",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun screech-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun snoot": {
+    "FullName": "bun snoot",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun snoot-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun teef": {
+    "FullName": "bun teef",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun teef-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "flower bun": {
+    "FullName": "flower bun",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 6.35,
+    "SpritePath": "flower bun-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "gubs": {
+    "FullName": "gubs",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 6.8,
+    "SpritePath": "Gubs-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "gump blur": {
+    "FullName": "gump blur",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 6.8,
+    "SpritePath": "gump blur-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "gump relax": {
+    "FullName": "gump relax",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 6.8,
+    "SpritePath": "Gubs-2.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "travel glub": {
+    "FullName": "travel glub",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 6.8,
+    "SpritePath": "travel glub-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums tater": {
+    "FullName": "tums tater",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 3.63,
+    "SpritePath": "tums tater-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums think": {
+    "FullName": "tums think",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 8.16,
+    "SpritePath": "tums think-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun mouf": {
+    "FullName": "bun mouf",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun mouf-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun squish": {
+    "FullName": "bun squish",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun squish-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun stare": {
+    "FullName": "bun stare",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun stare-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bunn": {
+    "FullName": "bunn",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 6.35,
+    "SpritePath": "bunn-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bunside-up": {
+    "FullName": "bunside-up",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 6.35,
+    "SpritePath": "bunside-up-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "gump blep": {
+    "FullName": "gump blep",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 6.8,
+    "SpritePath": "gump blep-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "gump look": {
+    "FullName": "gump look",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 6.8,
+    "SpritePath": "gump look-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "santa tums": {
+    "FullName": "santa tums",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 8.16,
+    "SpritePath": "santa tums-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums eyes": {
+    "FullName": "tums eyes",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 8.16,
+    "SpritePath": "tums eyes-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "glumpside-down": {
+    "FullName": "glumpside-down",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 6.8,
+    "SpritePath": "glumpside-down-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "gump back": {
+    "FullName": "gump back",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 6.8,
+    "SpritePath": "gump back-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "gump roll": {
+    "FullName": "gump roll",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 6.8,
+    "SpritePath": "gump roll-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums blur": {
+    "FullName": "tums blur",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 8.16,
+    "SpritePath": "tums blur-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "baby bunny stretch": {
+    "FullName": "baby bunny stretch",
+    "Description": "",
+    "BaseValue": 40,
+    "BaseWeight": 6.35,
+    "SpritePath": "baby bunny stretch-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun look": {
+    "FullName": "bun look",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun look-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun reach": {
+    "FullName": "bun reach",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun reach-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun the builder": {
+    "FullName": "bun the builder",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun the builder-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums grass": {
+    "FullName": "tums grass",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 8.16,
+    "SpritePath": "tums grass-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums loaded": {
+    "FullName": "tums loaded",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 8.16,
+    "SpritePath": "tums loaded-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums potty": {
+    "FullName": "tums potty",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 8.16,
+    "SpritePath": "tums potty-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums sink": {
+    "FullName": "tums sink",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 8.16,
+    "SpritePath": "tums sink-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums snow": {
+    "FullName": "tums snow",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 8.16,
+    "SpritePath": "tums snow-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums teef": {
+    "FullName": "tums teef",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 8.16,
+    "SpritePath": "tums teef-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "baby bun": {
+    "FullName": "baby bun",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 6.35,
+    "SpritePath": "baby bun-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums face": {
+    "FullName": "tums face",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 8.16,
+    "SpritePath": "tums face-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums stare": {
+    "FullName": "tums stare",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 8.16,
+    "SpritePath": "tums stare-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums": {
+    "FullName": "tums",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 3.63,
+    "SpritePath": "tums-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "babushka tums": {
+    "FullName": "babushka tums",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 8.16,
+    "SpritePath": "babushka tums-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "banana tums": {
+    "FullName": "banana tums",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 8.16,
+    "SpritePath": "banana tums-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun and gump": {
+    "FullName": "bun and gump",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 13.5,
+    "SpritePath": "bun and gump-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun ass": {
+    "FullName": "bun ass",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun ass-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun close eepy": {
+    "FullName": "bun close eepy",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun close eepy-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "bun close": {
+    "FullName": "bun close",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 6.35,
+    "SpritePath": "bun close-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "gump yawn": {
+    "FullName": "gump yawn",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 6.8,
+    "SpritePath": "gump yawn-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "santa tums rare": {
+    "FullName": "santa tums rare",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 8.16,
+    "SpritePath": "santa tums rare-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "tums sink stretch": {
+    "FullName": "tums sink stretch",
+    "Description": "",
+    "BaseValue": 201,
+    "BaseWeight": 8.16,
+    "SpritePath": "tums sink stretch-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Melon Kirby": {
+    "FullName": "Melon Kirby",
+    "Description": "",
+    "BaseValue": 10000,
+    "BaseWeight": 45.0,
+    "SpritePath": "melon kirby-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Mr. Krabs": {
+    "FullName": "Mr. Krabs",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 80.0,
+    "SpritePath": "deb9kat-b175f840-6bb6-463e-b01c-512207120e8c-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Sidon": {
+    "FullName": "Sidon",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 133.4,
+    "SpritePath": "Sidon_Sage-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "King Dorephan": {
+    "FullName": "King Dorephan",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 5000.0,
+    "SpritePath": "684px-Exalted_Dorephan_-_TotK_Character_Profile_art-1214807172-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "“Magic Harp”": {
+    "FullName": "\u201cMagic Harp\u201d",
+    "Description": "",
+    "BaseValue": 1,
+    "BaseWeight": 10.0,
+    "SpritePath": "HOME0129_f-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Lanturn": {
+    "FullName": "Lanturn",
+    "Description": "",
+    "BaseValue": 35,
+    "BaseWeight": 22.5,
+    "SpritePath": "HOME0171-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Horsea": {
+    "FullName": "Horsea",
+    "Description": "",
+    "BaseValue": 35,
+    "BaseWeight": 8.0,
+    "SpritePath": "HOME0116-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Seadra": {
+    "FullName": "Seadra",
+    "Description": "",
+    "BaseValue": 35,
+    "BaseWeight": 25.0,
+    "SpritePath": "HOME0117-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Kingdra": {
+    "FullName": "Kingdra",
+    "Description": "",
+    "BaseValue": 35,
+    "BaseWeight": 152.0,
+    "SpritePath": "HOME0230-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Mudkip": {
+    "FullName": "Mudkip",
+    "Description": "",
+    "BaseValue": 35,
+    "BaseWeight": 7.6,
+    "SpritePath": "HOME0258-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Spheal": {
+    "FullName": "Spheal",
+    "Description": "",
+    "BaseValue": 35,
+    "BaseWeight": 39.5,
+    "SpritePath": "HOME0363-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Goldeen": {
+    "FullName": "Goldeen",
+    "Description": "",
+    "BaseValue": 35,
+    "BaseWeight": 15.0,
+    "SpritePath": "HOME0118_f-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Squirtle": {
+    "FullName": "Squirtle",
+    "Description": "",
+    "BaseValue": 35,
+    "BaseWeight": 9.0,
+    "SpritePath": "HOME0007-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Seaking": {
+    "FullName": "Seaking",
+    "Description": "",
+    "BaseValue": 35,
+    "BaseWeight": 39.0,
+    "SpritePath": "HOME0119_f-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Gyarados": {
+    "FullName": "Gyarados",
+    "Description": "",
+    "BaseValue": 35,
+    "BaseWeight": 235.0,
+    "SpritePath": "HOME0130_f-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ Spheal ★": {
+    "FullName": "\u2605 Spheal \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 39.5,
+    "SpritePath": "HOME0363_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ Goldeen ★": {
+    "FullName": "\u2605 Goldeen \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 15.0,
+    "SpritePath": "HOME0118_f_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ Squirtle ★": {
+    "FullName": "\u2605 Squirtle \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 9.0,
+    "SpritePath": "HOME0007_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ Seaking ★": {
+    "FullName": "\u2605 Seaking \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 39.0,
+    "SpritePath": "HOME0119_f_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ Gyarados ★": {
+    "FullName": "\u2605 Gyarados \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 235.0,
+    "SpritePath": "HOME0130_f_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ Mega Gyarados ★": {
+    "FullName": "\u2605 Mega Gyarados \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 305.0,
+    "SpritePath": "HOME0130M_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ “Magic Harp” ★": {
+    "FullName": "\u2605 \u201cMagic Harp\u201d \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 10.0,
+    "SpritePath": "HOME0129_f_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ Feebas ★": {
+    "FullName": "\u2605 Feebas \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 7.4,
+    "SpritePath": "HOME0349_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ Milotic ★": {
+    "FullName": "\u2605 Milotic \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 162.0,
+    "SpritePath": "HOME0350_f_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ Lanturn ★": {
+    "FullName": "\u2605 Lanturn \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 22.5,
+    "SpritePath": "HOME0171_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ Horsea ★": {
+    "FullName": "\u2605 Horsea \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 8.0,
+    "SpritePath": "HOME0116_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ Seadra ★": {
+    "FullName": "\u2605 Seadra \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 25.0,
+    "SpritePath": "HOME0117_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ Kingdra ★": {
+    "FullName": "\u2605 Kingdra \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 152.0,
+    "SpritePath": "HOME0230_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "★ Mudkip ★": {
+    "FullName": "\u2605 Mudkip \u2605",
+    "Description": "",
+    "BaseValue": 250,
+    "BaseWeight": 7.6,
+    "SpritePath": "HOME0258_s-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Feebas": {
+    "FullName": "Feebas",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 7.4,
+    "SpritePath": "HOME0349-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Milotic": {
+    "FullName": "Milotic",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 162.0,
+    "SpritePath": "HOME0350_f-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Yonka Dingo": {
+    "FullName": "Yonka Dingo",
+    "Description": "",
+    "BaseValue": 35,
+    "BaseWeight": 200.0,
+    "SpritePath": "SM3DW_BF_PlessieStamp-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Yonka Dingo (Cat)": {
+    "FullName": "Yonka Dingo (Cat)",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 2021.0,
+    "SpritePath": "pasted-movie-8.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Manbo": {
+    "FullName": "Manbo",
+    "Description": "",
+    "BaseValue": 60,
+    "BaseWeight": 1000.0,
+    "SpritePath": "latest-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Lord Jabu-Jabu": {
+    "FullName": "Lord Jabu-Jabu",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 180529.8,
+    "SpritePath": "OoT3D_Lord_Jabu-Jabu_Model-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "En Garde": {
+    "FullName": "En Garde",
+    "Description": "",
+    "BaseValue": 110,
+    "BaseWeight": 650.0,
+    "SpritePath": "pasted-image 2-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  },
+  "Mermaid": {
+    "FullName": "Mermaid",
+    "Description": "",
+    "BaseValue": 45,
+    "BaseWeight": 136.0,
+    "SpritePath": "mermaid-1.png",
+    "AudioPath": "",
+    "LoadError": false
+  }
+}

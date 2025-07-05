@@ -1,2 +1,2 @@
-<one line to give the program's name and a brief idea of what it does.>
-Copyright (C) <year> <name of author>
+# SPDX-License-Identifier: AGPL-3.0-or-later
+"""Extract data from a specific Numbers.app spreadsheet into the CustomCatches.txt and CustomCatches/ folder expected by LurkBait Twitch Fishing"""
