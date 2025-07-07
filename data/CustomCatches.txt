@@ -26,15 +26,6 @@
     "LoadError": false,
     "SpritePath": "Ancient Arowana.png"
   },
-  "Ancient Statue Head": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 12.0,
-    "Description": "Pikmin",
-    "FullName": "Ancient Statue Head",
-    "LoadError": false,
-    "SpritePath": "Ancient Statue Head.png"
-  },
   "Armored Carp": {
     "AudioPath": "",
     "BaseValue": 10,
@@ -79,15 +70,6 @@
     "FullName": "Big Shit",
     "LoadError": false,
     "SpritePath": "Big Shit.png"
-  },
-  "Birdy Bed": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 7.0,
-    "Description": "Pikmin",
-    "FullName": "Birdy Bed",
-    "LoadError": false,
-    "SpritePath": "Birdy Bed.png"
   },
   "Bloomcap Bloyster": {
     "AudioPath": "",
@@ -233,24 +215,6 @@
     "LoadError": false,
     "SpritePath": "DJ Octavio.png"
   },
-  "Dapper Rubber Cutie": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 3.0,
-    "Description": "Pikmin",
-    "FullName": "Dapper Rubber Cutie",
-    "LoadError": false,
-    "SpritePath": "Dapper Rubber Cutie.png"
-  },
-  "Doggy Bed": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 7.0,
-    "Description": "Pikmin",
-    "FullName": "Doggy Bed",
-    "LoadError": false,
-    "SpritePath": "Doggy Bed.png"
-  },
   "Dorrie": {
     "AudioPath": "",
     "BaseValue": 35,
@@ -358,15 +322,6 @@
     "FullName": "Flyfish",
     "LoadError": false,
     "SpritePath": "Flyfish.png"
-  },
-  "Fortified Delicacy": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 20.0,
-    "Description": "Pikmin 2",
-    "FullName": "Fortified Delicacy",
-    "LoadError": false,
-    "SpritePath": "Fortified Delicacy.png"
   },
   "Glowing Cave Fish": {
     "AudioPath": "",
@@ -755,15 +710,6 @@
     "LoadError": false,
     "SpritePath": "Melon Kirby.png"
   },
-  "Memorial Shell": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 10.0,
-    "Description": "Pikmin 2",
-    "FullName": "Memorial Shell",
-    "LoadError": false,
-    "SpritePath": "Memorial Shell.png"
-  },
   "Mermaid Performer (Xiao Ai)": {
     "AudioPath": "",
     "BaseValue": 1000,
@@ -880,24 +826,6 @@
     "FullName": "Mudmouth",
     "LoadError": false,
     "SpritePath": "Mudmouth.png"
-  },
-  "Mystery Squish Fish": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 2.0,
-    "Description": "Pikmin",
-    "FullName": "Mystery Squish Fish",
-    "LoadError": false,
-    "SpritePath": "Mystery Squish Fish.png"
-  },
-  "Newtolite Shell": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 20.0,
-    "Description": "Pikmin",
-    "FullName": "Newtolite Shell",
-    "LoadError": false,
-    "SpritePath": "Newtolite Shell.png"
   },
   "Octo Oven": {
     "AudioPath": "",
@@ -1016,15 +944,6 @@
     "LoadError": false,
     "SpritePath": "Octonozzle.png"
   },
-  "Octoplus": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 2.0,
-    "Description": "Pikmin",
-    "FullName": "Octoplus",
-    "LoadError": false,
-    "SpritePath": "Octoplus.png"
-  },
   "Octopod": {
     "AudioPath": "",
     "BaseValue": 45,
@@ -1097,15 +1016,6 @@
     "LoadError": false,
     "SpritePath": "Octozeppelin.png"
   },
-  "Olimarnite Shell": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 15.0,
-    "Description": "Pikmin 2",
-    "FullName": "Olimarnite Shell",
-    "LoadError": false,
-    "SpritePath": "Olimarnite Shell.png"
-  },
   "Oversized Octopod": {
     "AudioPath": "",
     "BaseValue": 45,
@@ -1114,15 +1024,6 @@
     "FullName": "Oversized Octopod",
     "LoadError": false,
     "SpritePath": "Oversized Octopod.png"
-  },
-  "Paradoxical Enigma": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 4.0,
-    "Description": "Pikmin 2",
-    "FullName": "Paradoxical Enigma",
-    "LoadError": false,
-    "SpritePath": "Paradoxical Enigma.png"
   },
   "Patrick": {
     "AudioPath": "",
@@ -1169,15 +1070,6 @@
     "LoadError": false,
     "SpritePath": "Peckish Aristocrab.png"
   },
-  "Planetary Rubber Cutie": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 5.0,
-    "Description": "Pikmin",
-    "FullName": "Planetary Rubber Cutie",
-    "LoadError": false,
-    "SpritePath": "Planetary Rubber Cutie.png"
-  },
   "Plankton": {
     "AudioPath": "",
     "BaseValue": 60,
@@ -1195,15 +1087,6 @@
     "FullName": "Pricklepuff",
     "LoadError": false,
     "SpritePath": "Pricklepuff.png"
-  },
-  "Princess Pearl": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 5.0,
-    "Description": "Pikmin",
-    "FullName": "Princess Pearl",
-    "LoadError": false,
-    "SpritePath": "Princess Pearl.png"
   },
   "Puckering Blinnow": {
     "AudioPath": "",
@@ -1241,15 +1124,6 @@
     "LoadError": false,
     "SpritePath": "Razorclaw Crab.png"
   },
-  "Rubber Ugly": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 8.0,
-    "Description": "Pikmin 2",
-    "FullName": "Rubber Ugly",
-    "LoadError": false,
-    "SpritePath": "Rubber Ugly.png"
-  },
   "Sandy Cheeks": {
     "AudioPath": "",
     "BaseValue": 60,
@@ -1276,15 +1150,6 @@
     "FullName": "Scrapper",
     "LoadError": false,
     "SpritePath": "Scrapper.png"
-  },
-  "Scrumptious Shell": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 10.0,
-    "Description": "Pikmin 2",
-    "FullName": "Scrumptious Shell",
-    "LoadError": false,
-    "SpritePath": "Scrumptious Shell.png"
   },
   "Seadra": {
     "AudioPath": "",
@@ -1384,15 +1249,6 @@
     "FullName": "Slamming Lid",
     "LoadError": false,
     "SpritePath": "Slamming Lid.png"
-  },
-  "Slipper-Bug Fossil": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 15.0,
-    "Description": "Pikmin",
-    "FullName": "Slipper-Bug Fossil",
-    "LoadError": false,
-    "SpritePath": "Slipper-Bug Fossil.png"
   },
   "Small Rammerhead": {
     "AudioPath": "",
@@ -1511,15 +1367,6 @@
     "LoadError": false,
     "SpritePath": "Staminoka Bass.png"
   },
-  "Stately Rubber Cutie": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 3.0,
-    "Description": "Pikmin",
-    "FullName": "Stately Rubber Cutie",
-    "LoadError": false,
-    "SpritePath": "Stately Rubber Cutie.png"
-  },
   "Stealthfin Trout": {
     "AudioPath": "",
     "BaseValue": 35,
@@ -1636,24 +1483,6 @@
     "FullName": "Twintacle Octotrooper",
     "LoadError": false,
     "SpritePath": "Twintacle Octotrooper.png"
-  },
-  "Unfloatable Boat": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 12.0,
-    "Description": "Pikmin",
-    "FullName": "Unfloatable Boat",
-    "LoadError": false,
-    "SpritePath": "Unfloatable Boat.png"
-  },
-  "Universal Rubber Cutie": {
-    "AudioPath": "",
-    "BaseValue": 35,
-    "BaseWeight": 10.0,
-    "Description": "Pikmin",
-    "FullName": "Universal Rubber Cutie",
-    "LoadError": false,
-    "SpritePath": "Universal Rubber Cutie.png"
   },
   "Voltfin Trout": {
     "AudioPath": "",
@@ -2195,14 +2024,59 @@
     "LoadError": false,
     "SpritePath": "tums think.png"
   },
-  "\u201cFishy Bed\u201d Treasure": {
+  "\u201cAncient Statue Head\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 12.0,
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cAncient Statue Head\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cAncient Statue Head\u201d.png"
+  },
+  "\u201cBirdy Bed\u201d": {
     "AudioPath": "",
     "BaseValue": 35,
     "BaseWeight": 7.0,
-    "Description": "Pikmin",
-    "FullName": "\u201cFishy Bed\u201d Treasure",
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cBirdy Bed\u201d",
     "LoadError": false,
-    "SpritePath": "\u201cFishy Bed\u201d Treasure.png"
+    "SpritePath": "\u201cBirdy Bed\u201d.png"
+  },
+  "\u201cDapper Rubber Cutie\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 3.0,
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cDapper Rubber Cutie\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cDapper Rubber Cutie\u201d.png"
+  },
+  "\u201cDoggy Bed\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 7.0,
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cDoggy Bed\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cDoggy Bed\u201d.png"
+  },
+  "\u201cFishy Bed\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 7.0,
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cFishy Bed\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cFishy Bed\u201d.png"
+  },
+  "\u201cFortified Delicacy\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 20.0,
+    "Description": "Pikmin 2 (Treasure)",
+    "FullName": "\u201cFortified Delicacy\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cFortified Delicacy\u201d.png"
   },
   "\u201cMagic Harp\u201d": {
     "AudioPath": "",
@@ -2221,5 +2095,131 @@
     "FullName": "\u201cMagic Harp\u201d \ud83c\udf1f",
     "LoadError": false,
     "SpritePath": "\u201cMagic Harp\u201d \ud83c\udf1f.png"
+  },
+  "\u201cMemorial Shell\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 10.0,
+    "Description": "Pikmin 2 (Treasure)",
+    "FullName": "\u201cMemorial Shell\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cMemorial Shell\u201d.png"
+  },
+  "\u201cMystery Squish Fish\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 2.0,
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cMystery Squish Fish\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cMystery Squish Fish\u201d.png"
+  },
+  "\u201cNewtolite Shell\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 20.0,
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cNewtolite Shell\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cNewtolite Shell\u201d.png"
+  },
+  "\u201cOctoplus\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 2.0,
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cOctoplus\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cOctoplus\u201d.png"
+  },
+  "\u201cOlimarnite Shell\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 15.0,
+    "Description": "Pikmin 2 (Treasure)",
+    "FullName": "\u201cOlimarnite Shell\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cOlimarnite Shell\u201d.png"
+  },
+  "\u201cParadoxical Enigma\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 4.0,
+    "Description": "Pikmin 2 (Treasure)",
+    "FullName": "\u201cParadoxical Enigma\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cParadoxical Enigma\u201d.png"
+  },
+  "\u201cPlanetary Rubber Cutie\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 5.0,
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cPlanetary Rubber Cutie\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cPlanetary Rubber Cutie\u201d.png"
+  },
+  "\u201cPrincess Pearl\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 5.0,
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cPrincess Pearl\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cPrincess Pearl\u201d.png"
+  },
+  "\u201cRubber Ugly\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 8.0,
+    "Description": "Pikmin 2 (Treasure)",
+    "FullName": "\u201cRubber Ugly\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cRubber Ugly\u201d.png"
+  },
+  "\u201cScrumptious Shell\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 10.0,
+    "Description": "Pikmin 2 (Treasure)",
+    "FullName": "\u201cScrumptious Shell\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cScrumptious Shell\u201d.png"
+  },
+  "\u201cSlipper-Bug Fossil\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 15.0,
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cSlipper-Bug Fossil\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cSlipper-Bug Fossil\u201d.png"
+  },
+  "\u201cStately Rubber Cutie\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 3.0,
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cStately Rubber Cutie\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cStately Rubber Cutie\u201d.png"
+  },
+  "\u201cUnfloatable Boat\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 12.0,
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cUnfloatable Boat\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cUnfloatable Boat\u201d.png"
+  },
+  "\u201cUniversal Rubber Cutie\u201d": {
+    "AudioPath": "",
+    "BaseValue": 35,
+    "BaseWeight": 10.0,
+    "Description": "Pikmin (Treasure)",
+    "FullName": "\u201cUniversal Rubber Cutie\u201d",
+    "LoadError": false,
+    "SpritePath": "\u201cUniversal Rubber Cutie\u201d.png"
   }
 }
