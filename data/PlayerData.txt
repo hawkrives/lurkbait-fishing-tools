@@ -89,22 +89,13 @@
     "totalCasts": 1285,
     "totalCastsSnapshot": 0
   },
-  "kuina8104as": {
-    "displayName": "kuina8104as",
-    "gold": 4042,
+  "kuinanoyumemi": {
+    "displayName": "\u304f\u3044\u306a\u306e\u3086\u3081\u307f",
+    "gold": 4676,
     "goldSnapshot": 0,
     "lastCast": "04/11/2024 02:20:12 AM",
     "missingDisplayName": 0,
-    "totalCasts": 69,
-    "totalCastsSnapshot": 0
-  },
-  "kuinanoyumemi": {
-    "displayName": "\u304f\u3044\u306a\u306e\u3086\u3081\u307f",
-    "gold": 634,
-    "goldSnapshot": 0,
-    "lastCast": null,
-    "missingDisplayName": 0,
-    "totalCasts": 10,
+    "totalCasts": 79,
     "totalCastsSnapshot": 0
   },
   "matemi_silver": {

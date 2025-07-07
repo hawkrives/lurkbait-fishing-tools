@@ -20,7 +20,7 @@
   "*:\uff65\uff9f\u2727*:\uff65\uff9f\u2727 Horsea \u2727\uff65\uff9f: *\u2727\uff65\uff9f:*": {
     "biggestCatchValue": 270,
     "biggestCatchWeight": 8.644556,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "19/01/2025 01:07:21 AM",
     "isCustom": true,
     "shown": false,
@@ -29,7 +29,7 @@
   "*:\uff65\uff9f\u2727*:\uff65\uff9f\u2727 Kingdra \u2727\uff65\uff9f: *\u2727\uff65\uff9f:*": {
     "biggestCatchValue": 280,
     "biggestCatchWeight": 170.1877,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "20/02/2025 04:04:54 AM",
     "isCustom": true,
     "shown": false,
@@ -38,7 +38,7 @@
   "*:\uff65\uff9f\u2727*:\uff65\uff9f\u2727 Lanturn \u2727\uff65\uff9f: *\u2727\uff65\uff9f:*": {
     "biggestCatchValue": 270,
     "biggestCatchWeight": 24.32242,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "20/02/2025 02:40:09 AM",
     "isCustom": true,
     "shown": false,
@@ -47,7 +47,7 @@
   "*:\uff65\uff9f\u2727*:\uff65\uff9f\u2727 Mega Gyarados \u2727\uff65\uff9f: *\u2727\uff65\uff9f:*": {
     "biggestCatchValue": 277,
     "biggestCatchWeight": 338.2678,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "18/01/2025 01:06:37 AM",
     "isCustom": true,
     "shown": false,
@@ -56,7 +56,7 @@
   "*:\uff65\uff9f\u2727*:\uff65\uff9f\u2727 Milotic \u2727\uff65\uff9f: *\u2727\uff65\uff9f:*": {
     "biggestCatchValue": 281,
     "biggestCatchWeight": 182.1375,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "22/01/2025 01:53:06 AM",
     "isCustom": true,
     "shown": false,
@@ -65,7 +65,7 @@
   "*:\uff65\uff9f\u2727*:\uff65\uff9f\u2727 Mudkip \u2727\uff65\uff9f: *\u2727\uff65\uff9f:*": {
     "biggestCatchValue": 278,
     "biggestCatchWeight": 8.43653,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "02/02/2025 01:41:06 AM",
     "isCustom": true,
     "shown": false,
@@ -74,7 +74,7 @@
   "*:\uff65\uff9f\u2727*:\uff65\uff9f\u2727 Seadra \u2727\uff65\uff9f: *\u2727\uff65\uff9f:*": {
     "biggestCatchValue": 241,
     "biggestCatchWeight": 24.10559,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "01/03/2025 02:19:37 AM",
     "isCustom": true,
     "shown": false,
@@ -83,7 +83,7 @@
   "*:\uff65\uff9f\u2727*:\uff65\uff9f\u2727 Seaking \u2727\uff65\uff9f: *\u2727\uff65\uff9f:*": {
     "biggestCatchValue": 261,
     "biggestCatchWeight": 40.68275,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "16/02/2025 05:31:50 AM",
     "isCustom": true,
     "shown": false,
@@ -92,7 +92,7 @@
   "*:\uff65\uff9f\u2727*:\uff65\uff9f\u2727 Spheal \u2727\uff65\uff9f: *\u2727\uff65\uff9f:*": {
     "biggestCatchValue": 254,
     "biggestCatchWeight": 40.06076,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "02/02/2025 02:06:13 AM",
     "isCustom": true,
     "shown": false,
@@ -101,7 +101,7 @@
   "*:\uff65\uff9f\u2727*:\uff65\uff9f\u2727 Squirtle \u2727\uff65\uff9f: *\u2727\uff65\uff9f:*": {
     "biggestCatchValue": 256,
     "biggestCatchWeight": 9.202814,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "02/02/2025 02:07:49 AM",
     "isCustom": true,
     "shown": false,
@@ -164,7 +164,7 @@
   "Blooper": {
     "biggestCatchValue": 1,
     "biggestCatchWeight": 11.27025,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "01/02/2025 04:26:50 AM",
     "isCustom": true,
     "shown": false,
@@ -182,7 +182,7 @@
   "C. Q. Cumber": {
     "biggestCatchValue": 116,
     "biggestCatchWeight": 1.588593,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "22/02/2025 01:40:08 AM",
     "isCustom": true,
     "shown": false,
@@ -236,7 +236,7 @@
   "En Garde": {
     "biggestCatchValue": 124,
     "biggestCatchWeight": 733.0956,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "20/02/2025 03:49:32 AM",
     "isCustom": true,
     "shown": false,
@@ -245,7 +245,7 @@
   "Feebas": {
     "biggestCatchValue": 67,
     "biggestCatchWeight": 8.306416,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "02/02/2025 01:53:57 AM",
     "isCustom": true,
     "shown": false,
@@ -272,7 +272,7 @@
   "Flyfish": {
     "biggestCatchValue": 213,
     "biggestCatchWeight": 6.357107,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "06/02/2025 01:28:56 AM",
     "isCustom": true,
     "shown": false,
@@ -281,7 +281,7 @@
   "Goldeen": {
     "biggestCatchValue": 39,
     "biggestCatchWeight": 16.72366,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "24/01/2025 03:27:54 AM",
     "isCustom": true,
     "shown": false,
@@ -290,7 +290,7 @@
   "Golden Egg": {
     "biggestCatchValue": 67,
     "biggestCatchWeight": 1.111756,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "20/01/2025 01:11:07 AM",
     "isCustom": true,
     "shown": false,
@@ -299,7 +299,7 @@
   "Great Zapfish": {
     "biggestCatchValue": 224,
     "biggestCatchWeight": 8595.523,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "29/01/2025 02:16:02 AM",
     "isCustom": true,
     "shown": false,
@@ -326,7 +326,7 @@
   "Gyarados": {
     "biggestCatchValue": 39,
     "biggestCatchWeight": 260.8682,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "19/01/2025 01:09:17 AM",
     "isCustom": true,
     "shown": false,
@@ -353,7 +353,7 @@
   "Horsea": {
     "biggestCatchValue": 38,
     "biggestCatchWeight": 8.726255,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "20/02/2025 02:28:15 AM",
     "isCustom": true,
     "shown": false,
@@ -371,7 +371,7 @@
   "Hugefry": {
     "biggestCatchValue": 11292,
     "biggestCatchWeight": 10036.67,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "02/02/2025 02:00:05 AM",
     "isCustom": true,
     "shown": false,
@@ -389,7 +389,7 @@
   "Inkling": {
     "biggestCatchValue": 115,
     "biggestCatchWeight": 31.27549,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "19/01/2025 01:08:54 AM",
     "isCustom": true,
     "shown": false,
@@ -416,7 +416,7 @@
   "Jelly": {
     "biggestCatchValue": 40,
     "biggestCatchWeight": 3.389233,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "19/01/2025 01:04:24 AM",
     "isCustom": true,
     "shown": false,
@@ -425,7 +425,7 @@
   "King Dorephan": {
     "biggestCatchValue": 117,
     "biggestCatchWeight": 5298.639,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "24/01/2025 03:31:33 AM",
     "isCustom": true,
     "shown": false,
@@ -452,7 +452,7 @@
   "Lanturn": {
     "biggestCatchValue": 39,
     "biggestCatchWeight": 24.99982,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "15/02/2025 01:30:48 AM",
     "isCustom": true,
     "shown": false,
@@ -479,7 +479,7 @@
   "Lord Jabu-Jabu": {
     "biggestCatchValue": 121,
     "biggestCatchWeight": 198607.7,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "17/02/2025 01:10:08 AM",
     "isCustom": true,
     "shown": false,
@@ -506,7 +506,7 @@
   "Marigold": {
     "biggestCatchValue": 67,
     "biggestCatchWeight": 67.12526,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "02/02/2025 01:46:49 AM",
     "isCustom": true,
     "shown": false,
@@ -515,7 +515,7 @@
   "Master Mega": {
     "biggestCatchValue": 68,
     "biggestCatchWeight": 4348.352,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "19/01/2025 02:55:49 AM",
     "isCustom": true,
     "shown": false,
@@ -551,7 +551,7 @@
   "Mermaid": {
     "biggestCatchValue": 65,
     "biggestCatchWeight": 148.2945,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "13/04/2025 01:53:47 AM",
     "isCustom": true,
     "shown": false,
@@ -578,7 +578,7 @@
   "Milotic": {
     "biggestCatchValue": 124,
     "biggestCatchWeight": 182.865,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "19/01/2025 01:10:02 AM",
     "isCustom": true,
     "shown": false,
@@ -587,7 +587,7 @@
   "Mr. Coco": {
     "biggestCatchValue": 67,
     "biggestCatchWeight": 88.73694,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "20/02/2025 02:18:16 AM",
     "isCustom": true,
     "shown": false,
@@ -596,7 +596,7 @@
   "Mr. Coco (T-Pose)": {
     "biggestCatchValue": 496,
     "biggestCatchWeight": 79.31944,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "02/02/2025 01:43:23 AM",
     "isCustom": true,
     "shown": false,
@@ -614,7 +614,7 @@
   "Mudkip": {
     "biggestCatchValue": 39,
     "biggestCatchWeight": 8.539006,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "02/02/2025 01:44:35 AM",
     "isCustom": true,
     "shown": false,
@@ -650,7 +650,7 @@
   "Octoling": {
     "biggestCatchValue": 123,
     "biggestCatchWeight": 33.6795,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "19/01/2025 01:05:31 AM",
     "isCustom": true,
     "shown": false,
@@ -704,7 +704,7 @@
   "Pearl (Drone)": {
     "biggestCatchValue": 222,
     "biggestCatchWeight": 2.204219,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "20/02/2025 04:41:42 AM",
     "isCustom": true,
     "shown": false,
@@ -740,7 +740,7 @@
   "Seadra": {
     "biggestCatchValue": 40,
     "biggestCatchWeight": 28.22743,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "25/01/2025 01:20:33 AM",
     "isCustom": true,
     "shown": false,
@@ -767,7 +767,7 @@
   "Sidon": {
     "biggestCatchValue": 66,
     "biggestCatchWeight": 146.7729,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "24/01/2025 03:30:27 AM",
     "isCustom": true,
     "shown": false,
@@ -785,7 +785,7 @@
   "Spheal": {
     "biggestCatchValue": 40,
     "biggestCatchWeight": 44.58018,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "18/01/2025 03:48:29 AM",
     "isCustom": true,
     "shown": false,
@@ -794,7 +794,7 @@
   "Splat Tim": {
     "biggestCatchValue": 10046,
     "biggestCatchWeight": 28.12793,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "10/03/2025 12:09:57 AM",
     "isCustom": true,
     "shown": false,
@@ -812,7 +812,7 @@
   "Squirtle": {
     "biggestCatchValue": 39,
     "biggestCatchWeight": 10.1016,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "18/01/2025 03:47:48 AM",
     "isCustom": true,
     "shown": false,
@@ -902,7 +902,7 @@
   "Yonka Dingo (Cat)": {
     "biggestCatchValue": 124,
     "biggestCatchWeight": 2269.097,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "19/01/2025 01:05:08 AM",
     "isCustom": true,
     "shown": false,
@@ -911,7 +911,7 @@
   "Zapfish": {
     "biggestCatchValue": 66,
     "biggestCatchWeight": 4.379677,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "20/02/2025 02:31:30 AM",
     "isCustom": true,
     "shown": false,
@@ -965,7 +965,7 @@
   "bun and gump": {
     "biggestCatchValue": 111,
     "biggestCatchWeight": 13.61429,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "11/07/2024 12:19:01 AM",
     "isCustom": true,
     "shown": false,
@@ -992,7 +992,7 @@
   "bun close": {
     "biggestCatchValue": 113,
     "biggestCatchWeight": 11.25868,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "11/07/2024 02:18:20 AM",
     "isCustom": true,
     "shown": false,
@@ -1055,7 +1055,7 @@
   "bun screech": {
     "biggestCatchValue": 1,
     "biggestCatchWeight": 7.148915,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "23/06/2024 11:59:34 PM",
     "isCustom": true,
     "shown": true,
@@ -1064,7 +1064,7 @@
   "bun snoot": {
     "biggestCatchValue": 1,
     "biggestCatchWeight": 7.078817,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "25/06/2024 12:20:52 AM",
     "isCustom": true,
     "shown": true,
@@ -1091,7 +1091,7 @@
   "bun teef": {
     "biggestCatchValue": 22,
     "biggestCatchWeight": 11.22387,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "24/06/2024 12:01:10 AM",
     "isCustom": true,
     "shown": true,
@@ -1100,7 +1100,7 @@
   "bun the builder": {
     "biggestCatchValue": 109,
     "biggestCatchWeight": 10.93092,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "04/09/2024 02:15:17 AM",
     "isCustom": true,
     "shown": false,
@@ -1118,7 +1118,7 @@
   "bunside-up": {
     "biggestCatchValue": 112,
     "biggestCatchWeight": 11.24075,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "14/09/2024 01:55:31 AM",
     "isCustom": true,
     "shown": false,
@@ -1127,7 +1127,7 @@
   "flower bun": {
     "biggestCatchValue": 1,
     "biggestCatchWeight": 7.077581,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "25/06/2024 12:16:35 AM",
     "isCustom": true,
     "shown": true,
@@ -1199,7 +1199,7 @@
   "gump roll": {
     "biggestCatchValue": 112,
     "biggestCatchWeight": 11.18689,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "17/07/2024 12:49:45 AM",
     "isCustom": true,
     "shown": false,
@@ -1208,7 +1208,7 @@
   "gump yawn": {
     "biggestCatchValue": 112,
     "biggestCatchWeight": 11.23545,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "18/07/2024 12:37:09 AM",
     "isCustom": true,
     "shown": false,
@@ -1253,7 +1253,7 @@
   "tums blur": {
     "biggestCatchValue": 45,
     "biggestCatchWeight": 9.20719,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "25/06/2024 12:21:36 AM",
     "isCustom": true,
     "shown": true,
@@ -1280,7 +1280,7 @@
   "tums grass": {
     "biggestCatchValue": 104,
     "biggestCatchWeight": 10.38401,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "11/07/2024 02:23:30 AM",
     "isCustom": true,
     "shown": false,
@@ -1343,7 +1343,7 @@
   "tums tater": {
     "biggestCatchValue": 1,
     "biggestCatchWeight": 4.092836,
-    "biggestCaughtBy": "naterbman797",
+    "biggestCaughtBy": "naterbman7",
     "date": "25/06/2024 12:14:47 AM",
     "isCustom": true,
     "shown": true,
@@ -1361,7 +1361,7 @@
   "tums think": {
     "biggestCatchValue": 1,
     "biggestCatchWeight": 9.173436,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "25/06/2024 12:17:21 AM",
     "isCustom": true,
     "shown": true,
@@ -1397,7 +1397,7 @@
   "\u2605 Gyarados \u2605": {
     "biggestCatchValue": 279,
     "biggestCatchWeight": 262.2469,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "24/04/2025 12:30:34 AM",
     "isCustom": true,
     "shown": false,
@@ -1424,7 +1424,7 @@
   "\u2605 Lanturn \u2605": {
     "biggestCatchValue": 278,
     "biggestCatchWeight": 24.98867,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "13/04/2025 02:10:53 AM",
     "isCustom": true,
     "shown": false,
@@ -1433,7 +1433,7 @@
   "\u2605 Mega Gyarados \u2605": {
     "biggestCatchValue": 267,
     "biggestCatchWeight": 326.3248,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "13/04/2025 12:49:08 AM",
     "isCustom": true,
     "shown": false,
@@ -1442,7 +1442,7 @@
   "\u2605 Milotic \u2605": {
     "biggestCatchValue": 274,
     "biggestCatchWeight": 177.8536,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "13/04/2025 01:51:54 AM",
     "isCustom": true,
     "shown": false,
@@ -1460,7 +1460,7 @@
   "\u2605 Seadra \u2605": {
     "biggestCatchValue": 263,
     "biggestCatchWeight": 26.27705,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "13/04/2025 01:20:37 AM",
     "isCustom": true,
     "shown": false,
@@ -1469,7 +1469,7 @@
   "\u2605 Seaking \u2605": {
     "biggestCatchValue": 259,
     "biggestCatchWeight": 40.34219,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "13/04/2025 02:53:46 AM",
     "isCustom": true,
     "shown": false,
@@ -1478,7 +1478,7 @@
   "\u2605 Spheal \u2605": {
     "biggestCatchValue": 271,
     "biggestCatchWeight": 42.7719,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "13/04/2025 02:00:58 AM",
     "isCustom": true,
     "shown": false,
@@ -1487,7 +1487,7 @@
   "\u2605 Squirtle \u2605": {
     "biggestCatchValue": 242,
     "biggestCatchWeight": 8.720571,
-    "biggestCaughtBy": "cl41r3_n0t_ep1czzx2",
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
     "date": "13/04/2025 12:45:20 AM",
     "isCustom": true,
     "shown": false,
