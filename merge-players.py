@@ -54,28 +54,27 @@ def main() -> None:
         print(
             f"could not find Twitch handles {sorted(missing_handles)} in the PlayerData file."
         )
-        return
+    else:
+        # step 2, merge each other_handle into target_handle
+        all_handles = [args.target, *args.other_handles]
+        all_updated = db.query(
+            f"""
+                SELECT
+                    SUM(gold) AS gold,
+                    SUM(goldSnapshot) AS goldSnapshot,
+                    SUM(totalCasts) AS totalCasts,
+                    SUM(totalCastsSnapshot) AS totalCastsSnapshot,
+                    MAX(lastCast) AS lastCast
+                FROM player_data
+                WHERE handle IN ({",".join("?" for _ in all_handles)})
+                GROUP BY ?
+            """,
+            [*all_handles, args.target],
+        )
+        updated = next(all_updated)
 
-    # step 2, merge each other_handle into target_handle
-    all_handles = [args.target, *args.other_handles]
-    all_updated = db.query(
-        f"""
-            SELECT
-                SUM(gold) AS gold,
-                SUM(goldSnapshot) AS goldSnapshot,
-                SUM(totalCasts) AS totalCasts,
-                SUM(totalCastsSnapshot) AS totalCastsSnapshot,
-                MAX(lastCast) AS lastCast
-            FROM player_data
-            WHERE handle IN ({",".join("?" for _ in all_handles)})
-            GROUP BY ?
-        """,
-        [*all_handles, args.target],
-    )
-    updated = next(all_updated)
-
-    player_data.delete(args.other_handles)
-    player_data.update(args.target, updated)
+        player_data.delete(args.other_handles)
+        player_data.update(args.target, updated)
 
     # step 3, write the data back to disk
     with (examples / "PlayerData.txt").open("w", encoding="utf8") as fp:
@@ -84,6 +83,26 @@ def main() -> None:
             for record in player_data.rows
         }
         json.dump(data, fp, indent=2, sort_keys=True)
+
+    # step 4, update catch records in CatchData.txt
+    with (examples / "CatchData.txt").open("r", encoding="utf8") as fp:
+        data = json.load(fp)
+    for entry in data:
+        if entry["username"] in args.other_handles:
+            entry["username"] = args.target
+    with (examples / "CatchData.txt").open("w", encoding="utf8") as fp:
+        json.dump(data, fp, indent=2, sort_keys=True)
+    print("updated CatchData records")
+
+    # step 5,update the "biggest catch" records
+    with (examples / "DexData.txt").open("r", encoding="utf8") as fp:
+        data = json.load(fp)
+    for entry in data.values():
+        if entry["biggestCaughtBy"] in args.other_handles:
+            entry["biggestCaughtBy"] = args.target
+    with (examples / "DexData.txt").open("w", encoding="utf8") as fp:
+        json.dump(data, fp, indent=2, sort_keys=True)
+    print("updated DexData.txt")
 
 
 if __name__ == "__main__":
