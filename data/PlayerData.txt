@@ -4,7 +4,7 @@
     "gold": 183,
     "goldSnapshot": 0,
     "lastCast": "10/01/2025 02:21:52 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 2,
     "totalCastsSnapshot": 0
   },
@@ -13,7 +13,7 @@
     "gold": 53930,
     "goldSnapshot": 0,
     "lastCast": "16/05/2025 12:32:07 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 310,
     "totalCastsSnapshot": 0
   },
@@ -22,7 +22,7 @@
     "gold": 189,
     "goldSnapshot": 0,
     "lastCast": null,
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 5,
     "totalCastsSnapshot": 0
   },
@@ -31,7 +31,7 @@
     "gold": 114314,
     "goldSnapshot": 0,
     "lastCast": "16/05/2025 01:56:30 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 1125,
     "totalCastsSnapshot": 0
   },
@@ -40,7 +40,7 @@
     "gold": 403,
     "goldSnapshot": 0,
     "lastCast": null,
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 3,
     "totalCastsSnapshot": 0
   },
@@ -49,7 +49,7 @@
     "gold": 226,
     "goldSnapshot": 0,
     "lastCast": null,
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 5,
     "totalCastsSnapshot": 0
   },
@@ -58,7 +58,7 @@
     "gold": 14511,
     "goldSnapshot": 0,
     "lastCast": "25/04/2025 02:06:32 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 70,
     "totalCastsSnapshot": 0
   },
@@ -67,7 +67,7 @@
     "gold": 27892,
     "goldSnapshot": 0,
     "lastCast": "22/05/2025 12:31:19 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 381,
     "totalCastsSnapshot": 0
   },
@@ -76,7 +76,7 @@
     "gold": 81,
     "goldSnapshot": 0,
     "lastCast": "20/02/2025 02:24:28 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 2,
     "totalCastsSnapshot": 0
   },
@@ -85,7 +85,7 @@
     "gold": 1414,
     "goldSnapshot": 0,
     "lastCast": "05/05/2025 12:17:35 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 15,
     "totalCastsSnapshot": 0
   },
@@ -94,26 +94,17 @@
     "gold": 8233,
     "goldSnapshot": 0,
     "lastCast": "07/07/2025 01:19:09 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 160,
-    "totalCastsSnapshot": 0
-  },
-  "kuina8104ake": {
-    "displayName": "kuina8104ake",
-    "gold": 21,
-    "goldSnapshot": 0,
-    "lastCast": null,
-    "missingDisplayName": false,
-    "totalCasts": 1,
     "totalCastsSnapshot": 0
   },
   "kuina8104as": {
     "displayName": "kuina8104as",
-    "gold": 4021,
+    "gold": 4042,
     "goldSnapshot": 0,
     "lastCast": "04/11/2024 02:20:12 AM",
-    "missingDisplayName": false,
-    "totalCasts": 68,
+    "missingDisplayName": 0,
+    "totalCasts": 69,
     "totalCastsSnapshot": 0
   },
   "kuinanoyumemi": {
@@ -121,7 +112,7 @@
     "gold": 634,
     "goldSnapshot": 0,
     "lastCast": null,
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 10,
     "totalCastsSnapshot": 0
   },
@@ -130,7 +121,7 @@
     "gold": 2585,
     "goldSnapshot": 0,
     "lastCast": "25/06/2024 12:40:08 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 51,
     "totalCastsSnapshot": 0
   },
@@ -139,7 +130,7 @@
     "gold": 3316,
     "goldSnapshot": 0,
     "lastCast": "29/09/2024 12:31:14 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 65,
     "totalCastsSnapshot": 0
   },
@@ -148,7 +139,7 @@
     "gold": 2655,
     "goldSnapshot": 0,
     "lastCast": "05/05/2025 12:54:29 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 36,
     "totalCastsSnapshot": 0
   },
@@ -157,7 +148,7 @@
     "gold": 16275,
     "goldSnapshot": 0,
     "lastCast": "07/07/2025 12:12:10 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 100,
     "totalCastsSnapshot": 0
   },
@@ -166,7 +157,7 @@
     "gold": 18624,
     "goldSnapshot": 0,
     "lastCast": "16/05/2025 01:41:36 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 352,
     "totalCastsSnapshot": 0
   },
@@ -175,7 +166,7 @@
     "gold": 138,
     "goldSnapshot": 0,
     "lastCast": null,
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 5,
     "totalCastsSnapshot": 0
   },
@@ -184,7 +175,7 @@
     "gold": 87,
     "goldSnapshot": 0,
     "lastCast": null,
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 1,
     "totalCastsSnapshot": 0
   },
@@ -193,7 +184,7 @@
     "gold": 152,
     "goldSnapshot": 0,
     "lastCast": "06/05/2025 01:41:58 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 2,
     "totalCastsSnapshot": 0
   },
@@ -202,7 +193,7 @@
     "gold": 356,
     "goldSnapshot": 0,
     "lastCast": "05/03/2025 03:29:40 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 4,
     "totalCastsSnapshot": 0
   },
@@ -211,7 +202,7 @@
     "gold": 200,
     "goldSnapshot": 0,
     "lastCast": "19/12/2024 02:11:05 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 4,
     "totalCastsSnapshot": 0
   },
@@ -220,7 +211,7 @@
     "gold": 225,
     "goldSnapshot": 0,
     "lastCast": null,
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 5,
     "totalCastsSnapshot": 0
   },
@@ -229,7 +220,7 @@
     "gold": 1406,
     "goldSnapshot": 0,
     "lastCast": "25/06/2024 12:39:00 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 29,
     "totalCastsSnapshot": 0
   },
@@ -238,7 +229,7 @@
     "gold": 6287,
     "goldSnapshot": 0,
     "lastCast": "23/04/2025 01:09:04 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 121,
     "totalCastsSnapshot": 0
   },
@@ -247,7 +238,7 @@
     "gold": 4474,
     "goldSnapshot": 0,
     "lastCast": "22/10/2024 01:23:18 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 77,
     "totalCastsSnapshot": 0
   },
@@ -256,7 +247,7 @@
     "gold": 1018,
     "goldSnapshot": 0,
     "lastCast": "02/04/2025 12:51:21 AM",
-    "missingDisplayName": false,
+    "missingDisplayName": 0,
     "totalCasts": 23,
     "totalCastsSnapshot": 0
   }

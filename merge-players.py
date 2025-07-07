@@ -35,10 +35,10 @@ def main() -> None:
     db = Database(memory=True, strict=True)
     player_data: Table = cast(Table, db.table("player_data", pk="handle"))
 
-    examples = Path(".") / "examples"
+    examples = Path(".") / "data"
 
     # step 1, load the player data into a sqlite3 database
-    with (examples / "PlayerData.txt.json").open("r", encoding="utf8") as fp:
+    with (examples / "PlayerData.txt").open("r", encoding="utf8") as fp:
         data = json.load(fp)
         player_data.insert_all({"handle": key, **value} for key, value in data.items())
 
@@ -78,7 +78,7 @@ def main() -> None:
     player_data.update(args.target, updated)
 
     # step 3, write the data back to disk
-    with (examples / "PlayerData.txt.json").open("w", encoding="utf8") as fp:
+    with (examples / "PlayerData.txt").open("w", encoding="utf8") as fp:
         data = {
             record["handle"]: without_keys(record, "handle")
             for record in player_data.rows
