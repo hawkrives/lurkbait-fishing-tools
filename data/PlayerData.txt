@@ -136,20 +136,11 @@
   },
   "naterbman7": {
     "displayName": "naterbman7",
-    "gold": 16275,
-    "goldSnapshot": 0,
-    "lastCast": "07/07/2025 12:12:10 AM",
-    "missingDisplayName": 0,
-    "totalCasts": 100,
-    "totalCastsSnapshot": 0
-  },
-  "naterbman797": {
-    "displayName": "naterbman797",
-    "gold": 18624,
+    "gold": 34899,
     "goldSnapshot": 0,
     "lastCast": "16/05/2025 01:41:36 AM",
     "missingDisplayName": 0,
-    "totalCasts": 352,
+    "totalCasts": 452,
     "totalCastsSnapshot": 0
   },
   "neraaera": {
