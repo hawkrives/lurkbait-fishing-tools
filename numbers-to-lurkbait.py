@@ -121,7 +121,9 @@ def main() -> None:
             }
         )
 
-    catches_dir = Path(".") / "CustomCatches"
+    output_dir = Path(".") / "data"
+
+    catches_dir = output_dir / "CustomCatches"
     catches_dir.mkdir(exist_ok=True)
     for row in input_data.rows:
         if row["Excluded"]:
@@ -129,7 +131,6 @@ def main() -> None:
         print(row["Fish"])
         sprite_path = catches_dir / cast(str, row["Fish"])
         sprite_path = sprite_path.with_suffix(".png")
-        # todo: add the correct file type (or auto-convert all inputs to PNG?)
         with sprite_path.open("wb") as fp:
             fp.write(row["Image"])
         with Image.open(sprite_path) as im:
@@ -148,7 +149,7 @@ def main() -> None:
             }
         )
 
-    catches_file = Path(".") / "CustomCatches.txt"
+    catches_file = output_dir / "CustomCatches.txt"
 
     with catches_file.open("w", encoding="utf8") as fp:
         data = {}
