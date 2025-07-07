@@ -26,15 +26,6 @@
     "totalCasts": 5,
     "totalCastsSnapshot": 0
   },
-  "cl41r3_n0t_ep1czzx2": {
-    "displayName": "cl41r3_n0t_ep1czzx2",
-    "gold": 114314,
-    "goldSnapshot": 0,
-    "lastCast": "16/05/2025 01:56:30 AM",
-    "missingDisplayName": 0,
-    "totalCasts": 1125,
-    "totalCastsSnapshot": 0
-  },
   "connor9813": {
     "displayName": "connor9813",
     "gold": 403,
@@ -91,11 +82,11 @@
   },
   "k0w00ls4_ep1czzx": {
     "displayName": "k0w00ls4_ep1czzx",
-    "gold": 8233,
+    "gold": 122547,
     "goldSnapshot": 0,
-    "lastCast": "07/07/2025 01:19:09 AM",
+    "lastCast": "16/05/2025 01:56:30 AM",
     "missingDisplayName": 0,
-    "totalCasts": 160,
+    "totalCasts": 1285,
     "totalCastsSnapshot": 0
   },
   "kuina8104as": {
