@@ -26440,5 +26440,851 @@
     "username": "snosakuri",
     "value": 37,
     "weight": 7.945908
+  },
+  {
+    "date": "07/07/2025 12:11:52 AM",
+    "name": "Gyarados \ud83c\udf1f",
+    "rarity": "Epic",
+    "rating": 1,
+    "username": "naterbman7",
+    "value": 241,
+    "weight": 226.7599
+  },
+  {
+    "date": "07/07/2025 12:12:18 AM",
+    "name": "Yellow Wollyhop",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "naterbman7",
+    "value": 10,
+    "weight": 4.86697
+  },
+  {
+    "date": "07/07/2025 12:16:13 AM",
+    "name": "Masterhop",
+    "rarity": "Junk",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 11,
+    "weight": 15.92148
+  },
+  {
+    "date": "07/07/2025 12:16:35 AM",
+    "name": "Scrapper",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 75,
+    "weight": 1030.772
+  },
+  {
+    "date": "07/07/2025 12:16:57 AM",
+    "name": "Ancient Arowana",
+    "rarity": "Common",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 21,
+    "weight": 6.162515
+  },
+  {
+    "date": "07/07/2025 12:17:19 AM",
+    "name": "Mudmouth",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 65,
+    "weight": 440.0208
+  },
+  {
+    "date": "07/07/2025 12:17:41 AM",
+    "name": "bun mouf",
+    "rarity": "Uncommon",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 43,
+    "weight": 6.753746
+  },
+  {
+    "date": "07/07/2025 12:18:03 AM",
+    "name": "Sidestepper",
+    "rarity": "Common",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 13,
+    "weight": 1.065694
+  },
+  {
+    "date": "07/07/2025 12:18:25 AM",
+    "name": "Kingdra",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 31,
+    "weight": 136.4649
+  },
+  {
+    "date": "07/07/2025 12:18:47 AM",
+    "name": "Seadra",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 31,
+    "weight": 22.04853
+  },
+  {
+    "date": "07/07/2025 12:19:09 AM",
+    "name": "Horsea \ud83c\udf1f",
+    "rarity": "Epic",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 243,
+    "weight": 7.77423
+  },
+  {
+    "date": "07/07/2025 12:19:35 AM",
+    "name": "Sunsquish",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 9,
+    "weight": 0.8997597
+  },
+  {
+    "date": "07/07/2025 12:19:56 AM",
+    "name": "Mighty Porgy",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 8,
+    "weight": 8.470854
+  },
+  {
+    "date": "07/07/2025 12:20:17 AM",
+    "name": "tums",
+    "rarity": "Rare",
+    "rating": 3,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 121,
+    "weight": 4.007271
+  },
+  {
+    "date": "07/07/2025 12:20:41 AM",
+    "name": "Octomissile",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 38,
+    "weight": 33.72086
+  },
+  {
+    "date": "07/07/2025 12:21:03 AM",
+    "name": "Chum",
+    "rarity": "Junk",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 1,
+    "weight": 106.0768
+  },
+  {
+    "date": "07/07/2025 12:21:24 AM",
+    "name": "Octozeppelin",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 44,
+    "weight": 39.11393
+  },
+  {
+    "date": "07/07/2025 12:21:46 AM",
+    "name": "Seaking",
+    "rarity": "Uncommon",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 38,
+    "weight": 42.5767
+  },
+  {
+    "date": "07/07/2025 12:22:08 AM",
+    "name": "tums blur",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 38,
+    "weight": 7.819114
+  },
+  {
+    "date": "07/07/2025 12:22:30 AM",
+    "name": "Sidestepper",
+    "rarity": "Common",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 15,
+    "weight": 1.22724
+  },
+  {
+    "date": "07/07/2025 12:22:52 AM",
+    "name": "Griller",
+    "rarity": "Rare",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 80,
+    "weight": 2211.345
+  },
+  {
+    "date": "07/07/2025 12:23:15 AM",
+    "name": "\u201cMagic Harp\u201d",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 1,
+    "weight": 8.659809
+  },
+  {
+    "date": "07/07/2025 12:23:36 AM",
+    "name": "Octobot King II",
+    "rarity": "Epic",
+    "rating": 1,
+    "username": "naterbman7",
+    "value": 188,
+    "weight": 421.6379
+  },
+  {
+    "date": "07/07/2025 12:32:03 AM",
+    "name": "Gyarados",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "naterbman7",
+    "value": 28,
+    "weight": 189.2567
+  },
+  {
+    "date": "07/07/2025 12:32:24 AM",
+    "name": "Flipper-Flopper",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 80,
+    "weight": 1196.302
+  },
+  {
+    "date": "07/07/2025 12:32:47 AM",
+    "name": "baby bunny stretch",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 40,
+    "weight": 6.309301
+  },
+  {
+    "date": "07/07/2025 12:33:09 AM",
+    "name": "Staminoka Bass",
+    "rarity": "Junk",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 11,
+    "weight": 19.28279
+  },
+  {
+    "date": "07/07/2025 12:33:31 AM",
+    "name": "gump blep",
+    "rarity": "Uncommon",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 43,
+    "weight": 7.260201
+  },
+  {
+    "date": "07/07/2025 12:33:53 AM",
+    "name": "Octobot King II",
+    "rarity": "Epic",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 183,
+    "weight": 410.6379
+  },
+  {
+    "date": "07/07/2025 12:34:18 AM",
+    "name": "Steelhead",
+    "rarity": "Rare",
+    "rating": 3,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 90,
+    "weight": 559.4064
+  },
+  {
+    "date": "07/07/2025 12:34:41 AM",
+    "name": "Mudkip",
+    "rarity": "Uncommon",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 37,
+    "weight": 7.996318
+  },
+  {
+    "date": "07/07/2025 12:35:02 AM",
+    "name": "Megalodontia",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 164,
+    "weight": 59307.16
+  },
+  {
+    "date": "07/07/2025 12:35:27 AM",
+    "name": "Mighty Carp",
+    "rarity": "Junk",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 11,
+    "weight": 10.71295
+  },
+  {
+    "date": "07/07/2025 12:35:48 AM",
+    "name": "gump blur",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 1,
+    "weight": 6.21831
+  },
+  {
+    "date": "07/07/2025 12:36:10 AM",
+    "name": "En Garde",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 89,
+    "weight": 525.9398
+  },
+  {
+    "date": "07/07/2025 12:36:33 AM",
+    "name": "Spongebob",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 56,
+    "weight": 0.0225726
+  },
+  {
+    "date": "07/07/2025 12:36:55 AM",
+    "name": "Kingdra \ud83c\udf1f",
+    "rarity": "Epic",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 246,
+    "weight": 149.4267
+  },
+  {
+    "date": "07/07/2025 12:37:21 AM",
+    "name": "bun teef",
+    "rarity": "Junk",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 1,
+    "weight": 6.382852
+  },
+  {
+    "date": "07/07/2025 12:37:42 AM",
+    "name": "Sanke Carp",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 57,
+    "weight": 19.11164
+  },
+  {
+    "date": "07/07/2025 12:38:05 AM",
+    "name": "Sanke Carp",
+    "rarity": "Rare",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 61,
+    "weight": 20.31658
+  },
+  {
+    "date": "07/07/2025 12:38:27 AM",
+    "name": "gump look",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 34,
+    "weight": 5.849137
+  },
+  {
+    "date": "07/07/2025 12:38:49 AM",
+    "name": "Tentakook",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 94,
+    "weight": 34.28533
+  },
+  {
+    "date": "07/07/2025 12:39:12 AM",
+    "name": "tums potty",
+    "rarity": "Rare",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 63,
+    "weight": 8.551516
+  },
+  {
+    "date": "07/07/2025 12:39:35 AM",
+    "name": "bun squish",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 39,
+    "weight": 6.133531
+  },
+  {
+    "date": "07/07/2025 01:02:23 AM",
+    "name": "Baby Dragoneel",
+    "rarity": "Rare",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 119,
+    "weight": 71.6684
+  },
+  {
+    "date": "07/07/2025 01:02:47 AM",
+    "name": "Ironshell Crab",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 9,
+    "weight": 0.886205
+  },
+  {
+    "date": "07/07/2025 01:03:08 AM",
+    "name": "Smallfry",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 29,
+    "weight": 0.8421909
+  },
+  {
+    "date": "07/07/2025 01:03:30 AM",
+    "name": "Hyrule Bass",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 9,
+    "weight": 5.392402
+  },
+  {
+    "date": "07/07/2025 01:03:51 AM",
+    "name": "Marigold",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 50,
+    "weight": 49.50551
+  },
+  {
+    "date": "07/07/2025 01:04:14 AM",
+    "name": "bun and gump",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 92,
+    "weight": 11.33342
+  },
+  {
+    "date": "07/07/2025 01:04:37 AM",
+    "name": "Marigold",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 48,
+    "weight": 48.36643
+  },
+  {
+    "date": "07/07/2025 01:04:59 AM",
+    "name": "santa tums",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 33,
+    "weight": 6.685902
+  },
+  {
+    "date": "07/07/2025 01:05:21 AM",
+    "name": "Marigold",
+    "rarity": "Rare",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 64,
+    "weight": 63.9261
+  },
+  {
+    "date": "07/07/2025 01:05:43 AM",
+    "name": "gump roll",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 35,
+    "weight": 5.874203
+  },
+  {
+    "date": "07/07/2025 01:06:05 AM",
+    "name": "gump relax",
+    "rarity": "Junk",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 1,
+    "weight": 7.227547
+  },
+  {
+    "date": "07/07/2025 01:06:30 AM",
+    "name": "santa tums",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 38,
+    "weight": 7.704545
+  },
+  {
+    "date": "07/07/2025 01:06:52 AM",
+    "name": "Spongebob",
+    "rarity": "Rare",
+    "rating": 3,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 67,
+    "weight": 0.02662763
+  },
+  {
+    "date": "07/07/2025 01:07:15 AM",
+    "name": "bun stare",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 35,
+    "weight": 5.610717
+  },
+  {
+    "date": "07/07/2025 01:07:37 AM",
+    "name": "Cheep Cheep",
+    "rarity": "Junk",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 5,
+    "weight": 0.4023398
+  },
+  {
+    "date": "07/07/2025 01:07:58 AM",
+    "name": "Grubchucker",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 67,
+    "weight": 10.05932
+  },
+  {
+    "date": "07/07/2025 01:08:21 AM",
+    "name": "Dragoneel",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 102,
+    "weight": 611.0859
+  },
+  {
+    "date": "07/07/2025 01:08:44 AM",
+    "name": "Golden Egg",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 57,
+    "weight": 0.9480546
+  },
+  {
+    "date": "07/07/2025 01:09:06 AM",
+    "name": "Marie",
+    "rarity": "Rare",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 117,
+    "weight": 31.8751
+  },
+  {
+    "date": "07/07/2025 01:09:30 AM",
+    "name": "Seaking",
+    "rarity": "Uncommon",
+    "rating": 3,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 39,
+    "weight": 43.07849
+  },
+  {
+    "date": "07/07/2025 01:12:21 AM",
+    "name": "Water Octorok",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 34,
+    "weight": 7.725718
+  },
+  {
+    "date": "07/07/2025 01:12:43 AM",
+    "name": "Festival Shell",
+    "rarity": "Rare",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 64,
+    "weight": 1.070894
+  },
+  {
+    "date": "07/07/2025 01:13:05 AM",
+    "name": "bun screech",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 1,
+    "weight": 5.561148
+  },
+  {
+    "date": "07/07/2025 01:13:26 AM",
+    "name": "Scrapper",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 71,
+    "weight": 969.8097
+  },
+  {
+    "date": "07/07/2025 01:13:49 AM",
+    "name": "Toady Bloyster",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 33,
+    "weight": 2.867165
+  },
+  {
+    "date": "07/07/2025 01:14:11 AM",
+    "name": "tums tater",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 1,
+    "weight": 2.949747
+  },
+  {
+    "date": "07/07/2025 01:14:32 AM",
+    "name": "Octoballer",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 41,
+    "weight": 36.46458
+  },
+  {
+    "date": "07/07/2025 01:14:54 AM",
+    "name": "Patrick",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 57,
+    "weight": 12.41193
+  },
+  {
+    "date": "07/07/2025 01:15:16 AM",
+    "name": "bun screech",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 1,
+    "weight": 6.266137
+  },
+  {
+    "date": "07/07/2025 01:15:38 AM",
+    "name": "Chinook",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 33,
+    "weight": 47.74973
+  },
+  {
+    "date": "07/07/2025 01:16:00 AM",
+    "name": "Seadra",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 34,
+    "weight": 24.50813
+  },
+  {
+    "date": "07/07/2025 01:16:21 AM",
+    "name": "baby bunny stretch",
+    "rarity": "Uncommon",
+    "rating": 3,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 45,
+    "weight": 7.116086
+  },
+  {
+    "date": "07/07/2025 01:16:43 AM",
+    "name": "flower bun",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 1,
+    "weight": 5.24517
+  },
+  {
+    "date": "07/07/2025 01:17:05 AM",
+    "name": "Pearl",
+    "rarity": "Rare",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 119,
+    "weight": 21.58661
+  },
+  {
+    "date": "07/07/2025 01:17:28 AM",
+    "name": "gump blur",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 1,
+    "weight": 6.205521
+  },
+  {
+    "date": "07/07/2025 01:17:50 AM",
+    "name": "Razorclaw Crab",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 8,
+    "weight": 6.459592
+  },
+  {
+    "date": "07/07/2025 01:18:11 AM",
+    "name": "Yonka Dingo",
+    "rarity": "Uncommon",
+    "rating": 3,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 39,
+    "weight": 225.2089
+  },
+  {
+    "date": "07/07/2025 01:18:33 AM",
+    "name": "Hearty Salmon",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 56,
+    "weight": 18.61493
+  },
+  {
+    "date": "07/07/2025 01:18:55 AM",
+    "name": "Manbo",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 48,
+    "weight": 800.4816
+  },
+  {
+    "date": "07/07/2025 01:19:17 AM",
+    "name": "bun squish",
+    "rarity": "Uncommon",
+    "rating": 2,
+    "username": "k0w00ls4_ep1czzx",
+    "value": 40,
+    "weight": 6.353093
+  },
+  {
+    "date": "07/07/2025 01:21:01 AM",
+    "name": "C. Q. Cumber",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "kuinanoyumemi",
+    "value": 99,
+    "weight": 1.353336
+  },
+  {
+    "date": "07/07/2025 01:21:24 AM",
+    "name": "Squirtle",
+    "rarity": "Uncommon",
+    "rating": 2,
+    "username": "kuinanoyumemi",
+    "value": 35,
+    "weight": 9.088957
+  },
+  {
+    "date": "07/07/2025 01:21:46 AM",
+    "name": "Sunsquish",
+    "rarity": "Junk",
+    "rating": 1,
+    "username": "kuinanoyumemi",
+    "value": 9,
+    "weight": 0.9027475
+  },
+  {
+    "date": "07/07/2025 01:22:07 AM",
+    "name": "babushka tums",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "kuinanoyumemi",
+    "value": 96,
+    "weight": 7.108608
+  },
+  {
+    "date": "07/07/2025 01:22:30 AM",
+    "name": "tums potty",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "kuinanoyumemi",
+    "value": 52,
+    "weight": 7.027352
+  },
+  {
+    "date": "07/07/2025 01:30:34 AM",
+    "name": "Goldeen",
+    "rarity": "Uncommon",
+    "rating": 2,
+    "username": "kuinanoyumemi",
+    "value": 38,
+    "weight": 16.15715
+  },
+  {
+    "date": "07/07/2025 01:30:56 AM",
+    "name": "Octostamp",
+    "rarity": "Uncommon",
+    "rating": 1,
+    "username": "kuinanoyumemi",
+    "value": 39,
+    "weight": 34.60165
+  },
+  {
+    "date": "07/07/2025 01:31:18 AM",
+    "name": "Lil\u2019 Buddy (Karen)",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "kuinanoyumemi",
+    "value": 89,
+    "weight": 1.620788
+  },
+  {
+    "date": "07/07/2025 01:31:41 AM",
+    "name": "babushka tums",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "kuinanoyumemi",
+    "value": 108,
+    "weight": 7.979374
+  },
+  {
+    "date": "07/07/2025 01:32:05 AM",
+    "name": "Big Shit",
+    "rarity": "Rare",
+    "rating": 1,
+    "username": "kuinanoyumemi",
+    "value": 69,
+    "weight": 1041.221
   }
 ]

@@ -125,6 +125,24 @@
     "shown": false,
     "totalCatches": 4
   },
+  "Ancient Arowana": {
+    "biggestCatchValue": 21,
+    "biggestCatchWeight": 6.162515,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:16:57 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Baby Dragoneel": {
+    "biggestCatchValue": 119,
+    "biggestCatchWeight": 71.6684,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:02:23 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
   "Big Blooper": {
     "biggestCatchValue": 114,
     "biggestCatchWeight": 3008.904,
@@ -133,6 +151,15 @@
     "isCustom": true,
     "shown": false,
     "totalCatches": 9
+  },
+  "Big Shit": {
+    "biggestCatchValue": 69,
+    "biggestCatchWeight": 1041.221,
+    "biggestCaughtBy": "kuinanoyumemi",
+    "date": "07/07/2025 01:32:05 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
   },
   "Blooper": {
     "biggestCatchValue": 1,
@@ -159,7 +186,34 @@
     "date": "22/02/2025 01:40:08 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 11
+    "totalCatches": 12
+  },
+  "Cheep Cheep": {
+    "biggestCatchValue": 5,
+    "biggestCatchWeight": 0.4023398,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:07:37 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Chinook": {
+    "biggestCatchValue": 33,
+    "biggestCatchWeight": 47.74973,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:15:38 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Chum": {
+    "biggestCatchValue": 1,
+    "biggestCatchWeight": 106.0768,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:21:03 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
   },
   "Conch Shell": {
     "biggestCatchValue": 65,
@@ -170,6 +224,15 @@
     "shown": false,
     "totalCatches": 20
   },
+  "Dragoneel": {
+    "biggestCatchValue": 102,
+    "biggestCatchWeight": 611.0859,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:08:21 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
   "En Garde": {
     "biggestCatchValue": 124,
     "biggestCatchWeight": 733.0956,
@@ -177,7 +240,7 @@
     "date": "20/02/2025 03:49:32 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 10
+    "totalCatches": 11
   },
   "Feebas": {
     "biggestCatchValue": 67,
@@ -195,7 +258,16 @@
     "date": "04/02/2025 01:57:40 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 11
+    "totalCatches": 12
+  },
+  "Flipper-Flopper": {
+    "biggestCatchValue": 80,
+    "biggestCatchWeight": 1196.302,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:32:24 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
   },
   "Flyfish": {
     "biggestCatchValue": 213,
@@ -213,7 +285,7 @@
     "date": "24/01/2025 03:27:54 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 25
+    "totalCatches": 26
   },
   "Golden Egg": {
     "biggestCatchValue": 67,
@@ -222,7 +294,7 @@
     "date": "20/01/2025 01:11:07 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 14
+    "totalCatches": 15
   },
   "Great Zapfish": {
     "biggestCatchValue": 224,
@@ -233,6 +305,24 @@
     "shown": false,
     "totalCatches": 10
   },
+  "Griller": {
+    "biggestCatchValue": 80,
+    "biggestCatchWeight": 2211.345,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:22:52 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Grubchucker": {
+    "biggestCatchValue": 67,
+    "biggestCatchWeight": 10.05932,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:07:58 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
   "Gyarados": {
     "biggestCatchValue": 39,
     "biggestCatchWeight": 260.8682,
@@ -240,7 +330,25 @@
     "date": "19/01/2025 01:09:17 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 27
+    "totalCatches": 28
+  },
+  "Gyarados \ud83c\udf1f": {
+    "biggestCatchValue": 241,
+    "biggestCatchWeight": 226.7599,
+    "biggestCaughtBy": "naterbman7",
+    "date": "07/07/2025 12:11:52 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Hearty Salmon": {
+    "biggestCatchValue": 56,
+    "biggestCatchWeight": 18.61493,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:18:33 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
   },
   "Horsea": {
     "biggestCatchValue": 38,
@@ -251,6 +359,15 @@
     "shown": false,
     "totalCatches": 21
   },
+  "Horsea \ud83c\udf1f": {
+    "biggestCatchValue": 243,
+    "biggestCatchWeight": 7.77423,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:19:09 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
   "Hugefry": {
     "biggestCatchValue": 11292,
     "biggestCatchWeight": 10036.67,
@@ -260,6 +377,15 @@
     "shown": false,
     "totalCatches": 3
   },
+  "Hyrule Bass": {
+    "biggestCatchValue": 9,
+    "biggestCatchWeight": 5.392402,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:03:30 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
   "Inkling": {
     "biggestCatchValue": 115,
     "biggestCatchWeight": 31.27549,
@@ -268,6 +394,15 @@
     "isCustom": true,
     "shown": false,
     "totalCatches": 7
+  },
+  "Ironshell Crab": {
+    "biggestCatchValue": 9,
+    "biggestCatchWeight": 0.886205,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:02:47 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
   },
   "Iso Padre": {
     "biggestCatchValue": 121,
@@ -303,7 +438,16 @@
     "date": "15/02/2025 01:28:35 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 27
+    "totalCatches": 28
+  },
+  "Kingdra \ud83c\udf1f": {
+    "biggestCatchValue": 246,
+    "biggestCatchWeight": 149.4267,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:36:55 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
   },
   "Lanturn": {
     "biggestCatchValue": 39,
@@ -330,7 +474,7 @@
     "date": "24/01/2025 03:26:24 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 16
+    "totalCatches": 17
   },
   "Lord Jabu-Jabu": {
     "biggestCatchValue": 121,
@@ -348,7 +492,16 @@
     "date": "20/02/2025 02:29:41 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 12
+    "totalCatches": 13
+  },
+  "Marie": {
+    "biggestCatchValue": 117,
+    "biggestCatchWeight": 31.8751,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:09:06 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
   },
   "Marigold": {
     "biggestCatchValue": 67,
@@ -357,7 +510,7 @@
     "date": "02/02/2025 01:46:49 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 17
+    "totalCatches": 20
   },
   "Master Mega": {
     "biggestCatchValue": 68,
@@ -367,6 +520,24 @@
     "isCustom": true,
     "shown": false,
     "totalCatches": 21
+  },
+  "Masterhop": {
+    "biggestCatchValue": 11,
+    "biggestCatchWeight": 15.92148,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:16:13 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Megalodontia": {
+    "biggestCatchValue": 164,
+    "biggestCatchWeight": 59307.16,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:35:02 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
   },
   "Melon Kirby": {
     "biggestCatchValue": 10905,
@@ -385,6 +556,24 @@
     "isCustom": true,
     "shown": false,
     "totalCatches": 7
+  },
+  "Mighty Carp": {
+    "biggestCatchValue": 11,
+    "biggestCatchWeight": 10.71295,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:35:27 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Mighty Porgy": {
+    "biggestCatchValue": 8,
+    "biggestCatchWeight": 8.470854,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:19:56 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
   },
   "Milotic": {
     "biggestCatchValue": 124,
@@ -429,7 +618,34 @@
     "date": "02/02/2025 01:44:35 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 24
+    "totalCatches": 25
+  },
+  "Mudmouth": {
+    "biggestCatchValue": 65,
+    "biggestCatchWeight": 440.0208,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:17:19 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Octoballer": {
+    "biggestCatchValue": 41,
+    "biggestCatchWeight": 36.46458,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:14:32 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Octobot King II": {
+    "biggestCatchValue": 188,
+    "biggestCatchWeight": 421.6379,
+    "biggestCaughtBy": "naterbman7",
+    "date": "07/07/2025 12:23:36 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 2
   },
   "Octoling": {
     "biggestCatchValue": 123,
@@ -440,6 +656,51 @@
     "shown": false,
     "totalCatches": 18
   },
+  "Octomissile": {
+    "biggestCatchValue": 38,
+    "biggestCatchWeight": 33.72086,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:20:41 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Octostamp": {
+    "biggestCatchValue": 39,
+    "biggestCatchWeight": 34.60165,
+    "biggestCaughtBy": "kuinanoyumemi",
+    "date": "07/07/2025 01:30:56 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Octozeppelin": {
+    "biggestCatchValue": 44,
+    "biggestCatchWeight": 39.11393,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:21:24 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Patrick": {
+    "biggestCatchValue": 57,
+    "biggestCatchWeight": 12.41193,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:14:54 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Pearl": {
+    "biggestCatchValue": 119,
+    "biggestCatchWeight": 21.58661,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:17:05 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
   "Pearl (Drone)": {
     "biggestCatchValue": 222,
     "biggestCatchWeight": 2.204219,
@@ -449,6 +710,33 @@
     "shown": false,
     "totalCatches": 6
   },
+  "Razorclaw Crab": {
+    "biggestCatchValue": 8,
+    "biggestCatchWeight": 6.459592,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:17:50 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Sanke Carp": {
+    "biggestCatchValue": 61,
+    "biggestCatchWeight": 20.31658,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:37:42 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 2
+  },
+  "Scrapper": {
+    "biggestCatchValue": 75,
+    "biggestCatchWeight": 1030.772,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:16:35 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 2
+  },
   "Seadra": {
     "biggestCatchValue": 40,
     "biggestCatchWeight": 28.22743,
@@ -456,7 +744,7 @@
     "date": "25/01/2025 01:20:33 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 34
+    "totalCatches": 36
   },
   "Seaking": {
     "biggestCatchValue": 39,
@@ -465,7 +753,16 @@
     "date": "19/01/2025 01:04:46 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 26
+    "totalCatches": 28
+  },
+  "Sidestepper": {
+    "biggestCatchValue": 15,
+    "biggestCatchWeight": 1.22724,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:18:03 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 2
   },
   "Sidon": {
     "biggestCatchValue": 66,
@@ -483,7 +780,7 @@
     "date": "05/02/2025 02:16:48 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 31
+    "totalCatches": 32
   },
   "Spheal": {
     "biggestCatchValue": 40,
@@ -503,6 +800,15 @@
     "shown": false,
     "totalCatches": 4
   },
+  "Spongebob": {
+    "biggestCatchValue": 67,
+    "biggestCatchWeight": 0.02662763,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:36:33 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 2
+  },
   "Squirtle": {
     "biggestCatchValue": 39,
     "biggestCatchWeight": 10.1016,
@@ -510,7 +816,34 @@
     "date": "18/01/2025 03:47:48 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 33
+    "totalCatches": 34
+  },
+  "Staminoka Bass": {
+    "biggestCatchValue": 11,
+    "biggestCatchWeight": 19.28279,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:33:09 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Steelhead": {
+    "biggestCatchValue": 90,
+    "biggestCatchWeight": 559.4064,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:34:18 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Sunsquish": {
+    "biggestCatchValue": 9,
+    "biggestCatchWeight": 0.9027475,
+    "biggestCaughtBy": "kuinanoyumemi",
+    "date": "07/07/2025 12:19:35 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 2
   },
   "Super Sea Snail": {
     "biggestCatchValue": 67,
@@ -521,6 +854,42 @@
     "shown": false,
     "totalCatches": 23
   },
+  "Tentakook": {
+    "biggestCatchValue": 94,
+    "biggestCatchWeight": 34.28533,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 12:38:49 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Toady Bloyster": {
+    "biggestCatchValue": 33,
+    "biggestCatchWeight": 2.867165,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:13:49 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Water Octorok": {
+    "biggestCatchValue": 34,
+    "biggestCatchWeight": 7.725718,
+    "biggestCaughtBy": "k0w00ls4_ep1czzx",
+    "date": "07/07/2025 01:12:21 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
+  "Yellow Wollyhop": {
+    "biggestCatchValue": 10,
+    "biggestCatchWeight": 4.86697,
+    "biggestCaughtBy": "naterbman7",
+    "date": "07/07/2025 12:12:18 AM",
+    "isCustom": true,
+    "shown": false,
+    "totalCatches": 1
+  },
   "Yonka Dingo": {
     "biggestCatchValue": 39,
     "biggestCatchWeight": 225.4815,
@@ -528,7 +897,7 @@
     "date": "24/01/2025 03:24:03 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 25
+    "totalCatches": 26
   },
   "Yonka Dingo (Cat)": {
     "biggestCatchValue": 124,
@@ -555,7 +924,7 @@
     "date": "25/06/2024 12:42:50 AM",
     "isCustom": true,
     "shown": true,
-    "totalCatches": 21
+    "totalCatches": 23
   },
   "baby bun": {
     "biggestCatchValue": 113,
@@ -573,7 +942,7 @@
     "date": "25/06/2024 12:00:59 AM",
     "isCustom": true,
     "shown": true,
-    "totalCatches": 31
+    "totalCatches": 33
   },
   "banana tums": {
     "biggestCatchValue": 103,
@@ -600,7 +969,7 @@
     "date": "11/07/2024 12:19:01 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 9
+    "totalCatches": 10
   },
   "bun ass": {
     "biggestCatchValue": 111,
@@ -672,7 +1041,7 @@
     "date": "12/07/2024 01:06:46 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 26
+    "totalCatches": 27
   },
   "bun reach": {
     "biggestCatchValue": 112,
@@ -690,7 +1059,7 @@
     "date": "23/06/2024 11:59:34 PM",
     "isCustom": true,
     "shown": true,
-    "totalCatches": 62
+    "totalCatches": 64
   },
   "bun snoot": {
     "biggestCatchValue": 1,
@@ -708,7 +1077,7 @@
     "date": "25/06/2024 12:21:13 AM",
     "isCustom": true,
     "shown": true,
-    "totalCatches": 26
+    "totalCatches": 28
   },
   "bun stare": {
     "biggestCatchValue": 108,
@@ -717,7 +1086,7 @@
     "date": "17/07/2024 12:48:19 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 37
+    "totalCatches": 38
   },
   "bun teef": {
     "biggestCatchValue": 22,
@@ -726,7 +1095,7 @@
     "date": "24/06/2024 12:01:10 AM",
     "isCustom": true,
     "shown": true,
-    "totalCatches": 75
+    "totalCatches": 76
   },
   "bun the builder": {
     "biggestCatchValue": 109,
@@ -762,7 +1131,7 @@
     "date": "25/06/2024 12:16:35 AM",
     "isCustom": true,
     "shown": true,
-    "totalCatches": 52
+    "totalCatches": 53
   },
   "glumpside-down": {
     "biggestCatchValue": 108,
@@ -798,7 +1167,7 @@
     "date": "15/09/2024 12:18:14 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 30
+    "totalCatches": 31
   },
   "gump blur": {
     "biggestCatchValue": 1,
@@ -807,7 +1176,7 @@
     "date": "25/06/2024 12:39:29 AM",
     "isCustom": true,
     "shown": true,
-    "totalCatches": 62
+    "totalCatches": 64
   },
   "gump look": {
     "biggestCatchValue": 102,
@@ -816,7 +1185,7 @@
     "date": "14/09/2024 01:54:46 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 28
+    "totalCatches": 29
   },
   "gump relax": {
     "biggestCatchValue": 22,
@@ -825,7 +1194,7 @@
     "date": "23/06/2024 11:59:09 PM",
     "isCustom": true,
     "shown": true,
-    "totalCatches": 60
+    "totalCatches": 61
   },
   "gump roll": {
     "biggestCatchValue": 112,
@@ -834,7 +1203,7 @@
     "date": "17/07/2024 12:49:45 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 35
+    "totalCatches": 36
   },
   "gump yawn": {
     "biggestCatchValue": 112,
@@ -852,7 +1221,7 @@
     "date": "25/06/2024 12:24:30 AM",
     "isCustom": true,
     "shown": true,
-    "totalCatches": 29
+    "totalCatches": 31
   },
   "santa tums rare": {
     "biggestCatchValue": 557,
@@ -879,7 +1248,7 @@
     "date": "12/07/2024 01:16:20 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 14
+    "totalCatches": 15
   },
   "tums blur": {
     "biggestCatchValue": 45,
@@ -888,7 +1257,7 @@
     "date": "25/06/2024 12:21:36 AM",
     "isCustom": true,
     "shown": true,
-    "totalCatches": 44
+    "totalCatches": 45
   },
   "tums eyes": {
     "biggestCatchValue": 56,
@@ -933,7 +1302,7 @@
     "date": "14/09/2024 01:57:01 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 25
+    "totalCatches": 27
   },
   "tums sink": {
     "biggestCatchValue": 112,
@@ -978,7 +1347,7 @@
     "date": "25/06/2024 12:14:47 AM",
     "isCustom": true,
     "shown": true,
-    "totalCatches": 54
+    "totalCatches": 55
   },
   "tums teef": {
     "biggestCatchValue": 111,
@@ -1005,7 +1374,7 @@
     "date": "01/02/2025 04:30:08 AM",
     "isCustom": true,
     "shown": false,
-    "totalCatches": 26
+    "totalCatches": 27
   },
   "\u2605 Feebas \u2605": {
     "biggestCatchValue": 269,

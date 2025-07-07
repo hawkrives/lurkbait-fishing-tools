@@ -28,7 +28,8 @@ def main() -> None:
     for data_file in data.glob("*.txt"):
         print("reformatting", data_file)
         with data_file.open("r", encoding="utf8") as fp:
-            data = json.load(fp)
+            text = fp.read().strip("﻿")
+            data = json.loads(text)
         with data_file.open("w", encoding="utf8") as fp:
             json.dump(data, fp, indent=2, sort_keys=True)
 
